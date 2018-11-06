@@ -8,4 +8,5 @@ Link to this website: https://jorgealcubilla.github.io/traffic_density/
 width="300" style="height: 40px">
 <a href="web_data/density.txt">Density</a>
 </object>
+
 <img src="web_data/img.jpg" alt="traffic_cam">
