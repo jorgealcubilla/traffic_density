@@ -13,4 +13,4 @@ $.ajax({
             }
         });
 
-<img src="/web_data/img.jpg" alt="Mountain">
+<img src="web_data/img.jpg" alt="traffic_cam">
