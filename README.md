@@ -5,7 +5,7 @@ Link to this website: https://jorgealcubilla.github.io/traffic_density/
 
 $.ajax({
         async:false,
-        url: '/web_data/density.txt',
+        url: 'web_data/density.txt',
         dataType: 'text',
         success: function(data) 
         {
