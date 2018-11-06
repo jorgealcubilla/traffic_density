@@ -4,8 +4,8 @@ Website getting image from traffic camera and returning traffic density
 Link to this website: https://jorgealcubilla.github.io/traffic_density/
 
 <object data="web_data/density.txt" type="text/plain"
-width="500" style="height: 300px">
-<a href="web_data/density.txt">No Support?</a>
+width="50" style="height: 15px">
+<a href="web_data/density.txt">Density</a>
 </object>
 
 
