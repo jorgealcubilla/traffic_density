@@ -5,9 +5,10 @@ Link to this website: https://jorgealcubilla.github.io/traffic_density/
 
 
 <object data="web_data/density.txt" type="text/plain"
-width="300" style="height: 25px">
+width="900px" style="height: 25px">
 <a href="web_data/density.txt">Density</a>
 </object>
+
 
 
 <img src="web_data/img.jpg" alt="traffic_cam">
