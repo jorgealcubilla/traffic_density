@@ -9,7 +9,4 @@ width="900px" style="height: 70px">
 <a href="web_data/density.txt">Density</a>
 </object>
 
-
-
-
 <img src="web_data/img.jpg" alt="traffic_cam">
