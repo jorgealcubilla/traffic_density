@@ -5,7 +5,7 @@ Link to this website: https://jorgealcubilla.github.io/traffic_density/
 
 
 <object data="web_data/density.txt" type="text/plain"
-width="900px" style="height: 25px">
+width="900px" style="height: 100px">
 <a href="web_data/density.txt">Density</a>
 </object>
 
