@@ -1,2 +1,2 @@
-Traffic Density Estimation: Low (value: 1),
-Last update as of: 2018-11-11 18:48:03.283503-08:00
+Traffic Density Estimation: Low (value: 2),
+Last update as of: 2018-11-11 19:03:03.202190-08:00
