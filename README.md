@@ -1,4 +1,4 @@
-# traffic_density
+# traffic_density_estimator
 Website getting image from traffic camera and returning traffic density
 
 Link to this website: https://jorgealcubilla.github.io/traffic_density/
