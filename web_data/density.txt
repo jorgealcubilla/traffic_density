@@ -1,3 +1,0 @@
-Traffic Density Estimation: Medium (value: 6),
-Last update as of: 2018-11-13 16:03:03,
-(Pacific Std. Time)
